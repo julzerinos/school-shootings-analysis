@@ -24,9 +24,9 @@ How effective are counter strategies?
 
 >Add bar chart trend over time
 
-<div style="width: 640px;">
+<div style="width: 100%;">
     <iframe 
-        width="640px" height="516x" 
+        width="100%" height="516x" 
         src="assets/htmls/choropleth.html"
         style="overflow: hidden;"
         >

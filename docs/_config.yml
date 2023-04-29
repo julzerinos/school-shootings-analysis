@@ -22,7 +22,7 @@ title: Exploratory analysis into two decades of school shootings in the United S
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   
-baseurl: "/school-shooting-analysis" # the subpath of your site, e.g. /blog
+baseurl: "/school-shootings-analysis" # the subpath of your site, e.g. /blog
 url: "https://julzerinos.github.io" 
 
 # Build settings
