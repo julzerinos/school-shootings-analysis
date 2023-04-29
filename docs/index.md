@@ -27,7 +27,7 @@ How effective are counter strategies?
 <div style="width: 640px;">
     <iframe 
         width="640px" height="516x" 
-        src="assets/htmls/chloropleth.html"
+        src="assets/htmls/choropleth.html"
         style="overflow: hidden;"
         >
     </iframe>
@@ -55,32 +55,17 @@ shool shooter age and reasons
 
 Refer to available sources on gun regulation 
 
-# Culturual response
+---
 
-<img class="ioda" src="assets/imgs/google_trends.png"/>
+{% include_relative _content/cultural_response.md %}
 
-Marches, demonstrations,
+---
 
-Media response
+{% include_relative _content/counter_strategies.md %}
 
-Thoughts and prayers
+---
 
--> South park, grandson
-
-general survey -> guns should stay
-
-what percentage of cause of death
-
-# Counter strategies
-
-counter strategies
-
-police on place
-
-
-# Final thoughts
-
-
+{% include_relative _content/final_thoughts.md %}
 
 
 ---
