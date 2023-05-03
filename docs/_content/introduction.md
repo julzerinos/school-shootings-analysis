@@ -26,3 +26,7 @@ More specifically, the questions in the mind of the authors are the following
   * A look into the cultural response and news trends.
  4. How effective are counter strategies?
   * A look into the strategies employed to address the issue and what the result is.
+
+## Methodology
+
+The source code for the calculations and analysis done for the the report is available at the public repository [*school-shootings-analysis*](https://github.com/julzerinos/school-shootings-analysis) on GitHub.
