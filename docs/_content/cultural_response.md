@@ -4,7 +4,7 @@ It is evident through means of common media, the news cycle and word of mouth th
 
 ## Google search trends for school shootings
 
-An example of this behavior is the frequency of Google searches for the keywords "school shooting" over the past years. While Google does not provide exact search numbers, the relative proportions allows a reasonable conclusion on the popularity of the search term. 
+An example of this behavior is the frequency of Google searches for the keywords "school shooting" over the past years. While Google does not provide exact search numbers, the relative proportions allow a reasonable conclusion on the popularity of the search term. 
 
 The four largest-impact school shootings to date are
  * `Columbine High School`, April 1999 - commonly regarded to as the first mass school shooting (which by FBI definition, it is not - ["Columbine Wasn't The First Mass School Shooting", *Bustle*](https://www.bustle.com/articles/141151-was-columbine-the-first-school-shooting-in-the-united-states-sue-klebold-finally-speaks-out-on)) with a casualty count of 34 (`13 deaths`).

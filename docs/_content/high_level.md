@@ -6,7 +6,7 @@ This section provides an overview of the observations of the data set to provide
 
 The data set entails `366` shootings over the time period of April 20th 1999 until February 2nd 2023. With a period of `8689` days, there was a shooting occuring on school grounds every `23.74` days.
 
-There have been `603` casualties, of which `192` were deaths. On average, `1.13` people were injured and `0.52` were killed during a shooting. The highest amount of deaths occurred during the Sandy Hook shooting (December 14th, 2012) with `26` deaths.
+There have been `603` casualties, of which `192` were deaths. On average, around two were injured and one person was killed during every two school shootings. The highest amount of deaths occurred during the Sandy Hook shooting (December 14th, 2012) with `26` deaths.
 
 ## States affected
 
