@@ -29,14 +29,5 @@ A look into the strange American cultural phenomenon.
 
 ---
 
-{% include_relative _content/counter_strategies.md %}
-
----
-
 {% include_relative _content/final_thoughts.md %}
 
----
-
-# References
-
-https://www.washingtonpost.com/education/interactive/school-shootings-database/

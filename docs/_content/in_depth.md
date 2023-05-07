@@ -32,8 +32,9 @@ Details on all of the individual shootings to displayed on the map below. The si
     </iframe>
 </div>
 
-## Ethnicities affected
+<!-- ## Ethnicities affected
 
-One of the features of the map above are the ethnicity distributions of the schools at which a shooting took place. Further investigation shows that
+One of the features of the map above are the ethnicity distributions of the schools at which a shooting took place. Further investigation shows that -->
 
 ## Who are the shooters?
+

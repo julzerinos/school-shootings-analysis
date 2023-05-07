@@ -33,15 +33,18 @@ Nikolas Cruz, the criminal behind the Douglas High School shooting (2018), was f
 
 Although not the focus of this report, a few examples of school shootings in media are provided to depict the prevelance of this culturual phenomenon.
 
+* ["Evan"](https://www.youtube.com/watch?v=A8syQeFtBKc) and ["Back to school essentials"](https://www.youtube.com/watch?v=turCfxwkfPE) by the *Sandy Hook Promise* - awareness videos created by the nonprofit organization working for gun violence prevention programs and policies.
+
  * "Dead Kids", *South Park* - The protagonist school students are more concerned with failing a math quiz than ongoing school shooting threats. A student's parent's emotional response to school shootings is seen as abnormal by the community ([Wikipedia overview](https://en.wikipedia.org/wiki/Dead_Kids_(South_Park))). This satirical piece comments on the cultural acceptance of school shootings.
 
 <img src="assets/imgs/south_park_dead_kids.jpg"/>
 
  * ["thoughts & prayers", *grandson*](https://www.youtube.com/watch?v=2OZ7EasWwy0) - a musical piece released in 2018 on the subject matter. The title refers to the phrase "thoughts and prayers" commonly used as the only reaction to school shootings by those with the power to actually address the issue.
 
+## Counter strategies
 
+The American response to address the issue has been predominantly reactive, spawning a market around the concept of *campus safety*. An industry of "fire-fight-fire", pushing to make metal detectors, bulletproof doors and armed security normal at schools.
 
-Marches, demonstrations,
+The *Washington Post* article ["Armored school doors, bulletproof whiteboards and secret snipers"](https://www.washingtonpost.com/graphics/2018/local/school-shootings-and-campus-safety-industry/) does a great job of detailing the absurdities, which among others detail a subscription-based, parent-sponsored militaristic infiltration programme based on the premise that an ex-special ops unit goes undercover to identify, befriend and neutralize potential shooters before they strike.
 
-Media response
-
+The introduction of resource officers also begs the question as to whether that is the appropriate response. Not only have they been shown to fail to prevent a shooting, they themselves can contribute to the problem. In the data set, out of seven cases where the shooter was established to be the resource officer, one was lethal - the officer responded to a student threatening him with a baseball bat by ending his life with a pistol (["Officer kills Fresno student"](https://www.latimes.com/archives/la-xpm-2008-apr-17-me-fresno17-story.html), *Los Angeles Times*). If not a failure in descalation, it is certainly a failure in an appropriate response.
