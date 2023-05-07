@@ -1,5 +1,5 @@
 # Let's talk about guns
 
-> Choropleth, gun ownership combo
+## Firearm ownership correlation
 
-Refer to available sources on gun regulation 
+## Firearm source
