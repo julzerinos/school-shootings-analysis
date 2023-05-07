@@ -1,6 +1,6 @@
 # Introduction
 
-This reports aims to leap into the trends and patterns behind school shootings occuring in the United States of America between 2001 and 2023. The main foci of this report will be the physical patterns of the events - including time periods assessment as well as the geospatial distribution of the phenomenon. Additionally, the report will review the cultural response to the happenings.
+This reports aims to leap into the trends and patterns behind school shootings occuring in the United States of America between April 1999 and January 2023. The main foci of this report will be the physical patterns of the events - including time periods assessment as well as the geospatial distribution of the phenomenon. Additionally, the report will review the cultural response to the happenings.
 
 ## About the data set
 

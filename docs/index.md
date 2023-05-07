@@ -1,4 +1,4 @@
-A look into the strange American cultural phenomenon.
+A look into the strange American cultural phenomenon. This report is based on the [Washington Post data set](https://github.com/washingtonpost/data-school-shootings) and data analysis on the [school-shootings-analysis](https://github.com/julzerinos/school-shootings-analysis) repository.
 
 * Generate table of contents
 {:toc}
@@ -30,4 +30,3 @@ A look into the strange American cultural phenomenon.
 ---
 
 {% include_relative _content/final_thoughts.md %}
-

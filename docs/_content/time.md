@@ -8,15 +8,7 @@ The first aggregation to understand is the pattern behind shooting frequency is 
 
 A note is made on the poor quality of recording on the hour of the shooting with varying time formats used and `20` empty values.
 
-<div style="width: 100%;">
-    <iframe 
-        class="ioda"
-        width="100%" height="370px" 
-        src="assets/htmls/shootings_hour.html"
-        style="overflow: hidden; border: transparent;"
-        >
-    </iframe>
-</div>
+{% include shootings_hour.html %}
 
 School shootings do not occur outside of school hours (7am - 5pm), with the one exception of a recorded school shooting at 11pm which given the poor quality of time recording may be a mistake (11am).
 
@@ -26,15 +18,7 @@ Though the time of a shootings appears to be more or less evenly distributed ove
 
 The same analysis is continued for weekdays aggregation.
 
-<div style="width: 100%;">
-    <iframe 
-        class="ioda"
-        width="100%" height="370px" 
-        src="assets/htmls/shootings_weekday.html"
-        style="overflow: hidden; border: transparent;"
-        >
-    </iframe>
-</div>
+{% include shootings_weekday.html %}
 
 It appears that Tuesdays were most commonly plagued with shootings, with a stronger drop towards the end of the week (Thursday, Friday). 
 
@@ -44,15 +28,7 @@ Unsurprisingly, no shootings occured on weekends.
 
 Finally, months of the year are observed for patterns.
 
-<div style="width: 100%;">
-    <iframe 
-        class="ioda"
-        width="100%" height="370px" 
-        src="assets/htmls/shootings_month.html"
-        style="overflow: hidden; border: transparent;"
-        >
-    </iframe>
-</div>
+{% include shootings_month.html %}
 
 The summer period observes less violence than the other parts of the year, but it is important to note that is due to the relative number of students being much lower (while summer schools are open).
 

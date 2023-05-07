@@ -8,15 +8,7 @@ To hopefully illustrate this, this section will provide information more informa
 
 The previously discussed graph on shooting occurences is expanded to show casualties per year.
 
-<div style="width: 100%;">
-    <iframe 
-        class="ioda"
-        width="100%" height="520px" 
-        src="assets/htmls/shootings_year.html"
-        style="overflow: hidden; border: transparent;"
-        >
-    </iframe>
-</div>
+{% include shootings_details.html %}
 
 The four infamous mass shooting death counts are clearly visible in the years 1999, 2012, 2018 and 2022. Disregarding the mass shootings, the death count appears to be maintained as a constant ratio of all casualties.
 
@@ -27,7 +19,7 @@ Details on all of the individual shootings to displayed on the map below. The si
         class="ioda"
         width="100%" height="600px" 
         src="assets/htmls/shootings_details.html"
-        style="overflow: visible; border: transparent;"
+        style="overflow: visible;"
         >
     </iframe>
 </div>
