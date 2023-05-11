@@ -1,3 +1,5 @@
+# School shootings in the US
+
 This repository contains a deep dive analysis of a cultural phenomenon in the US - school shootings.
 The result of this analysis is presented as a github page linked in this repository.
 
