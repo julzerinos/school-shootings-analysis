@@ -5,4 +5,4 @@ The result of this analysis is presented as a github page linked in this reposit
 
 In analysis folder there is a notebook with all the code and analysis conducted during working on a project. It also contains code that generated the diagrams that are later used in the page.
 
-In dosc folder there are files with github pages content as well as folders containing diagrams that are display on the page.
+In docs folder there are files with github pages content as well as folders containing diagrams that are display on the page.
